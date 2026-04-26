@@ -1,0 +1,35 @@
+# Build output
+Debug/
+Release/
+build/
+
+# STM32CubeIDE / Eclipse generated metadata
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Temporary and local files
+tmp/
+*.tmp
+*.bak
+*.log
+
+# Compiled objects and firmware artifacts
+*.o
+*.obj
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.lst
+*.siz
+*.a
+*.lib
+
+# OS files
+Thumbs.db
+Desktop.ini
